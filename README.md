@@ -1,8 +1,8 @@
 # Midnight Vault
 
 [![Midnight Vault — make.fun bounty](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
-[![Midnight Vault — rank on make.fun](https://make.fun/badge/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
-[![Midnight Vault — reward on make.fun](https://make.fun/badge/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![Midnight Vault — rank on make.fun](https://make.fun/badge/best-heist-game-20261122-0559/fahroz1/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![Midnight Vault — reward on make.fun](https://make.fun/badge/best-heist-game-20261122-0559/fahroz1/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 **Midnight Vault** is a top-down 2D stealth heist game that runs entirely offline in a desktop browser from its own static files. You are a thief in a dark suit slipping through a museum vault after midnight: steal the painting, the gold bars and the Midnight Diamond, then reach the green exit — while three patrolling guards and two sweeping security cameras watch the room with visible vision cones. Standing in a lit cone fills the alarm meter; shadow patches and hiding slow it down. Fill the meter three times and the run is busted.
 
